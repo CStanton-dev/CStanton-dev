@@ -12,7 +12,7 @@
 </a>
 <br />
 
-<h3 align="center">A passionate developer from the United States</h3>
+<h3 align="left">A passionate developer from the United States</h3>
 <ul>
   <li>🔭 I’m currently working on <a href="https://github.com/CStanton-dev/carter-stanton-portfolio">carter-stanton-portfolio</a></li>
   <li>👨‍💻 All of my projects are available at <a href="https://carterstanton.dev">carterstanton.dev</a></li>
