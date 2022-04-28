@@ -7,9 +7,6 @@
 <a href="https://www.linkedin.com/in/cstanton-dev/">
   <img align="left" alt="Carter's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/jz41k93zigxefa1mxvuh92vna">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
 <br />
 
 <h3 align="left">A passionate developer from the United States</h3>
