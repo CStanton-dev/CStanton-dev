@@ -11,7 +11,7 @@
 
 <h3 align="left">A passionate developer from the United States</h3>
 <ul>
-  <li>🔭 I’m currently working on <a href="https://github.com/CStanton-dev/go-tutorial">go-tutorial</a></li>
+  <li>🔭 I’m currently working on <a href="https://github.com/CStanton-dev/learn-python">learn-python</a></li>
   <li>👨‍💻 All of my projects are available at <a href="https://carterstanton.dev">carterstanton.dev</a></li>
   <li>How to reach me <a href="mailto:contact@carterstanton.dev">contact@carterstanton.dev</a></li>
 </ul>
