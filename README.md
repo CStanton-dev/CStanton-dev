@@ -4,8 +4,11 @@
 <h1 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Carter Stanton
 </h1>
 
-<a href="https://www.linkedin.com/in/cstanton-dev/">
-  <img align="left" alt="Carter's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.linkedin.com/in/cstanton-dev/" target="_blank">
+  <img align="left" alt="Carter\'s LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://stackoverflow.com/users/19112310/carter-stanton" target="_blank">
+  <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Carter's Stack Overflow" width="22px" />
 </a>
 <br />
 
