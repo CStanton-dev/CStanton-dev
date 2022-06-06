@@ -1,7 +1,7 @@
 <br />
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=cstanton-dev&count_privates=true&show_icons=true&locale=en" alt="cstanton-dev" width="50%" height="auto"/>
 <br />
-<h1 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style='width: 30px!important;'> I'm Carter Stanton
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> I'm Carter Stanton
 </h1>
 
 <a href="https://www.linkedin.com/in/carter-stanton-dev/" target="_blank">
