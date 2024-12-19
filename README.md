@@ -8,7 +8,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 
-💡&nbsp;I'm a software engineer at Altamira Technologies. \
+💡&nbsp;I'm a senior software engineer at MTSI. \
 🎓&nbsp;I graduated form Western Governor's University (Information Technology B.S, Class of 2022). \
 🌱&nbsp;I'm on track for learning more about Artificial Intelligence, Homomorphic Encryption, and Computer Vision. \
 💬&nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics! \
